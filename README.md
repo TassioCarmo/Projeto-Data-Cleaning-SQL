@@ -7,9 +7,9 @@
 ## Objetivos do Projeto:
 
 - Remover duplicatas.
-- Lidar com valores nulos.
 - Corrigir erros de tipo de dados.
 - Normalizar formatos de data.
+- Lidar com valores nulos.
 - Padronizar valores categóricos.
 
 ## Como testar o projeto
