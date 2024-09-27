@@ -20,7 +20,6 @@
 
 ## Processo de Limpeza de Dados:
 
-- clean_duplicates.sql – Remove duplicatas da tabela de vendas.
-- handle_nulls.sql – Substitui valores nulos por valores padrão ou remove as linhas.
-- normalize_dates.sql – Converte todas as datas para o formato padrão YYYY-MM-DD.
-- standardize_categories.sql – Padroniza valores em colunas categóricas (por exemplo, corrige capitalização inconsistente).
+- remove-duplicadas.sql – Remove duplicatas da tabela de vendas.
+- remove-nulos.sql – Substitui valores nulos por valores padrão ou remove as linhas.
+- padronizando_dados.sql – Padroniza valores em colunas categóricas (por exemplo, corrige capitalização inconsistente).
